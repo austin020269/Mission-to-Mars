@@ -27,6 +27,12 @@ Deliverable 1:
 8. Print the list of dictionary items.
 9. Quit the browser.
 
+![alt text](https://github.com/austin020269/Mission-to-Mars/blob/main/Del1_image_1.PNG)
+
+![alt text](https://github.com/austin020269/Mission-to-Mars/blob/main/Del1_image_2.PNG)
+
+
+
  
 Deliverable 2:
 1. In the def scrape_all() function in your scraping.py file, create a new dictionary in the data dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
