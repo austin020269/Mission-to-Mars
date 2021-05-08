@@ -39,7 +39,10 @@ Deliverable 2:
 
   
 Deliverable 3:
-1. 
+1. Make sure the page is clean.
+2. Use thew Bootstrap 3 grid system examples to update the index.html file so it is mobile-responsive.
+3. Use DevTools to test the responsiveness of the website.
+4. Add two Bootstrap 3 components from the list provided.
 
 <code screen capture>
 
