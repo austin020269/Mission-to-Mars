@@ -37,7 +37,6 @@ Deliverable 2:
 6. Confirm that your webpage has the full-resolution images and the titles of the four hemisphere images.
 7. Save all files.
 
-<code screen capture>
   
 Deliverable 3:
 1. 
