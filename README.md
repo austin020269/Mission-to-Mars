@@ -27,10 +27,7 @@ Deliverable 1:
 8. Print the list of dictionary items.
 9. Quit the browser.
 
-<code screen capture>
-
-<image showing dictionaries>
-  
+ 
 Deliverable 2:
 1. In the def scrape_all() function in your scraping.py file, create a new dictionary in the data dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
 2. Below the def mars_facts() function in the scraping.pyfile, create a function that will scrape the hemisphere data and return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
