@@ -33,7 +33,13 @@ Deliverable 1:
   
 Deliverable 2:
 1. In the def scrape_all() function in your scraping.py file, create a new dictionary in the data dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
-2. 
+
+<code screen capture>
+  
+Deliverable 3:
+1. 
+
+<code screen capture>
 
 ## Results
 
