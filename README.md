@@ -44,7 +44,7 @@ Deliverable 2:
 6. Confirm that your webpage has the full-resolution images and the titles of the four hemisphere images.
 7. Save all files.
 
-
+![alt text](https://github.com/austin020269/Mission-to-Mars/blob/main/Del2_image_1.PNG)
 
   
 Deliverable 3:
