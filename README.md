@@ -38,7 +38,7 @@ Deliverable 1:
 Deliverable 2:
 1. In the def scrape_all() function in your scraping.py file, create a new dictionary in the data dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
 2. Below the def mars_facts() function in the scraping.pyfile, create a function that will scrape the hemisphere data and return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
-3. Run the app.py file, then check your Mongo database to make sure that you are retrieving all of the data.
+3. Run the app.py file (https://github.com/austin020269/Mission-to-Mars/blob/main/app.py), then check your Mongo database to make sure that you are retrieving all of the data.
 4. Modify the index.html file (https://github.com/austin020269/Mission-to-Mars/blob/main/index_final.html) to access your database, and retrieve the img_url and title as you loop through the dictionary in the database using {% for hemisphere in mars.hemispheres %}.
 5. Run the app.py file, open the index.html file, and click the "Scrape New Data" button.
 6. Confirm that your webpage has the full-resolution images and the titles of the four hemisphere images.
