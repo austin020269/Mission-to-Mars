@@ -2,7 +2,7 @@
 UT Bootcamp Module 10 
 
 ## Project Overview
-This is a module learning the web scraping process to extract data using the Mars Plant Science Exploration program website (https://redplanetscience.com/).
+This is a module learning the web scraping process to extract data using the Mars Plant Science Exploration program website (https://redplanetscience.com/).  I used splinter and beautifulsoup to scrape the appropriate data, transformaed the data into a Mongo database, used flask to upload to my webpage  and finally utilized bootstrap to clean the webage content to get the final product.
 
 
 ## Resources
@@ -10,6 +10,7 @@ Software utilized for this study included:
 - Web Drive Manager
 - Beautiful Soup
 - MongoDB
+- Bootstrap
 - Python 3.7.6 
 - Conda 4.9.2 
 - Jupyter Notebook 6.1.4
