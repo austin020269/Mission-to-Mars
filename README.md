@@ -53,8 +53,6 @@ Deliverable 3:
 3. Use DevTools to test the responsiveness of the website.
 4. Add two Bootstrap 3 components from the list provided.
 
-<code screen capture>
-
-## Results
+## Results - Final Webpage
 
 <show web page>
