@@ -54,7 +54,7 @@ Deliverable 3:
 4. Add two Bootstrap 3 components from the list provided.
 
 ## Results - Final Webpage
-Unforunately my app.py file raan but did not give the intended result that I did not have time to resolve:
+Unforunately my app.py file ran but did not give the intended result that I did not have time to resolve:
 
 http://127.0.0.1:5000/scrape
 
