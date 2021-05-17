@@ -58,7 +58,7 @@ Unforunately my app.py file raan but did not give the intended result that I did
 
 http://127.0.0.1:5000/scrape
 
-![alt text](https://github.com/austin020269/Mission-to-Mars/blob/main/Del2_image_2.PNG)
+
 
 
 
